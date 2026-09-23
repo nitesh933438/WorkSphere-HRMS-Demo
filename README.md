@@ -702,8 +702,8 @@ The screenshot section above intentionally keeps the role structure and displays
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/nitesh933438/WorkSphere-HRMS.git
-cd WorkSphere-HRMS
+git clone https://github.com/nitesh933438/WorkSphere-HRMS-Demo.git
+cd WorkSphere-HRMS-Demo
 ```
 
 ## 2. Install frontend dependencies
