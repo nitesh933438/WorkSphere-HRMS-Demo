@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nitesh933438/WorkSphere-HRMS">GitHub Repository</a> •
-  <a href="https://nitesh933438.github.io/WorkSphere-HRMS/">Live Demo</a>
+  <a href="https://github.com/nitesh933438/WorkSphere-HRMS-Demo">GitHub Repository</a> •
+  <a href="https://nitesh933438.github.io/WorkSphere-HRMS-Demo-Source/">Live Demo</a>
 </p>
 
 <p align="center">
@@ -939,7 +939,7 @@ Reports / Announcements / Notifications
 ### Nitesh Kumar
 
 - GitHub: https://github.com/nitesh933438
-- Project: https://github.com/nitesh933438/WorkSphere-HRMS
+- Project: https://github.com/nitesh933438/WorkSphere-HRMS-Demo
 
 ---
 
@@ -947,6 +947,6 @@ Reports / Announcements / Notifications
 
 **WorkSphere HRMS — Modern, role-based HR management with real-time workflows.**
 
-[Live Demo](https://nitesh933438.github.io/WorkSphere-HRMS/) • [GitHub Repository](https://github.com/nitesh933438/WorkSphere-HRMS)
+[Live Demo](https://nitesh933438.github.io/WorkSphere-HRMS-Demo-Source/) • [GitHub Repository](https://github.com/nitesh933438/WorkSphere-HRMS-Demo)
 
 </div>
